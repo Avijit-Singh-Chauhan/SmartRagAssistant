@@ -26,5 +26,5 @@ Built to eliminate the need to manually sift through dense, multi-page PDFs, thi
 ### Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/DivittR/SmartRagAssistant.git](https://github.com/DivittR/SmartRagAssistant.git)
+   git clone [https://github.com/Avijit-Singh-Chauhan/SmartRagAssistant.git](https://github.com/Avijit-Singh-Chauhan/SmartRagAssistant.git)
    cd SmartRagAssistant
